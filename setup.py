@@ -1,5 +1,5 @@
 from setuptools import setup, find_packages
-from calculus.calculus import __version__
+#from calculus.calculus import __version__
 
 setup(
     name='calculus',
