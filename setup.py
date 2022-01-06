@@ -3,7 +3,7 @@ from calculus.calculus import __version__
 
 setup(
     name='calculus',
-    version=__version__,
+    version='0.0.1',
 
     url='https://github.com/ccurtis7/calculus',
     author='Chad Curtis',
