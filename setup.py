@@ -8,6 +8,6 @@ setup(
     url='https://github.com/ccurtis7/calculus',
     author='Chad Curtis',
     author_email='chad.curtis@nsc.edu',
-    install_requires=['numpy>=1.19.2']
+    install_requires=['numpy>=1.19.2'],
     py_modules=find_packages()
 )
