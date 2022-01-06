@@ -1,5 +1,5 @@
 import numpy as np
-from calculus import derivative, integral
+from calculus.calculus import derivative, integral
 
 
 class Testderivative:
